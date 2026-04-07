@@ -29,9 +29,16 @@ Presenly ("we", "our", or "us") respects your privacy and is committed to protec
 
 6. User Rights
    Users can request deletion of their data by contacting us.
+   
+7. Account Deletion
 
-7. Changes to This Policy
+   Users can request deletion of their account and associated data by contacting us at:
+   support@presenlyapp.com
+
+   We will process the request within 7 days.
+
+8. Changes to This Policy
    We may update this policy from time to time.
 
-8. Contact Us
+9. Contact Us
    If you have any questions, contact us at: support@presenlyapp.com
